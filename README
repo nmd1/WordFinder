@@ -1,0 +1,9 @@
+This is a personal project to help me study vocabulary words for the GRE
+
+Note that if you would like to use this program you will need to supply your own Merriam-Webster API key Here: http://www.dictionaryapi.com/
+Once you get the keys make sure the first line of your Key file is your (collegiate) Dictionary Key and the second line is your Thesaurus Key
+Name the file "Keys" with no extension
+
+This program is completely free to use/fork. I do not own Merriam-Webster, it's API, or any of its intellectual property.
+
+Feel free to message me if you have any questions or concerns. 
